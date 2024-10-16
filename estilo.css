@@ -4,8 +4,8 @@ body {
   }
   section{
     background-color: rgb(184,156,213);
-    padding-bottom: 5%;
-    padding-top: 5%;
+    padding-bottom: 3%;
+    padding-top: 3%;
     display: flex;
     justify-content: center;
   }
