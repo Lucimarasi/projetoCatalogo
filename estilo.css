@@ -12,6 +12,14 @@ body {
   div{
     margin-right: 80%;
   }
-  
-
+  section{
+    background-color: rgb(184,156,213);
+    padding-bottom: 3%;
+    padding-top: 3%;
+    display: flex;
+    justify-content: center;
+  }
+  div{
+    margin-right: 80%;
+  }
   
