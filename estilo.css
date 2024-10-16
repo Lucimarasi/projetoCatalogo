@@ -10,6 +10,12 @@ body {
     display: flex;
     justify-content: center;
   }
+  header{
+    border-bottom: solid 2px #30045f;
+    padding: 20px;
+    font-size: 32px;
+    color: #30045f;
+  }
   texto {
     margin-right: 5%;
   }
