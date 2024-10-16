@@ -1,8 +1,17 @@
 body {
     background-color: black;
+    color:white;
+  }
+  section{
+    background-color: rgb(184,156,213);
+    padding-bottom: 5%;
+    padding-top: 5%;
+    display: flex;
+    justify-content: center;
+  }
+  div{
+    margin-right: 80%;
   }
   
-  h1,p {
-    color: white;
-    text-align: center;
-  }
+
+  
