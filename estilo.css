@@ -19,11 +19,22 @@ body {
   texto {
     margin-right: 5%;
   }
+  img{
+    height: 200px;
+  }
+  .categoria-videos {
+    display:flex;
+    overflow: auto;
+    gap: 10px;
+  }
   h1{
     font-size: 40px;
   }
   p{
     font-size: 20px;
+  }
+  h2{
+
   }
 
   
