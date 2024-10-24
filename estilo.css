@@ -17,14 +17,14 @@ body {
     color: #997db6;
   }
   texto {
-    margin-right: 5%;
+    margin-right: 80px;
   }
   img{
     height: 200px;
   }
   .categoria-videos {
     display:flex;
-    overflow: auto;
+    overflow-x: auto;
     gap: 10px;
   }
   h1{
