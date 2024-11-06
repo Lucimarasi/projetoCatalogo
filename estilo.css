@@ -26,7 +26,12 @@ body {
     display:flex;
     overflow-x: auto;
     gap: 10px;
+    background: ;
   }
+  .categoria-videos img{
+  opscity: 0,5;
+  height: 200px;
+}
   .lista
   h1{
     font-size: 40px;
