@@ -19,9 +19,6 @@ body {
   texto {
     margin-right: 80px;
   }
-  img{
-    height: 200px;
-  }
   .categoria-videos {
     display:flex;
     overflow-x: auto;
@@ -29,7 +26,7 @@ body {
     background: ;
   }
   .categoria-videos img{
-  opscity: 0,5;
+  opacity: 0.5;
   height: 200px;
 }
   .lista
